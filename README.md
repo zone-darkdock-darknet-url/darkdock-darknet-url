@@ -81,4 +81,6 @@ Always remember: safety first. Stay informed, prioritize your privacy, and adher
   
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/symbols/far.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update: Updated external tool documentation links
+
+
+Update:  Friday 04 July 2025
